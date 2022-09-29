@@ -5,6 +5,7 @@ metadata:
   namespace: image
   labels: {
     container_type: store
+
   }
 spec:
   capacity:
