@@ -13,8 +13,8 @@ mountOptions:
   - nobrl
   - cache=none
 parameters:
-  skuName: Standard_LRS
-  storageAccount: csg100320023473b016
-  location: centralindia
-  resourceGroup: cloud-shell-storage-centralindia
+  skuName: Standard_RAGRS
+  storageAccount: imagestoreforstudy
+  location: eastus
+  resourceGroup: STORAGE
 reclaimPolicy: Retain
